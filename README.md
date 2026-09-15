@@ -1,4 +1,4 @@
-﻿# 🍽️ Atlanta Food Finder: Full-Stack Dining Discovery & Recommendation Web App
+﻿# Atlanta Food Finder: Full-Stack Dining Discovery & Recommendation Web App
 
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Django](https://img.shields.io/badge/Django-Full--Stack-092E20.svg?logo=django&logoColor=white)](https://www.djangoproject.com/)
@@ -6,21 +6,21 @@
 [![Course](https://img.shields.io/badge/Georgia%20Tech-CS%202340%20Objects%20%26%20Design-B3A369.svg)](https://www.gatech.edu/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-> A full-stack web application designed for students and Atlanta residents to discover, review, search, and bookmark local restaurants. Built with **Django**, **SQLite**, and the **Google Maps Geocoding API** to automatically resolve spatial coordinates, support granular multi-criteria filtering, and provide personalized user dining collections.
+A full-stack web application designed for students and Atlanta residents to discover, review, search, and bookmark local restaurants. Built with **Django**, **SQLite**, and the **Google Maps Geocoding API** to automatically resolve spatial coordinates, support granular multi-criteria filtering, and provide personalized user dining collections.
 
 ---
 
-## 📌 Features
+## Features
 
-- 🔍 **Dynamic Discovery & Search**: Filter Atlanta eateries by cuisine type, minimum customer ratings, location, and keywords.
-- 🗺️ **Automated Spatial Geocoding**: Integrated with the **Google Maps Geocoding & Places API** to automatically translate street addresses into latitude and longitude coordinates upon entry.
-- 👤 **Secure User Authentication**: Complete account management system with user registration, authentication guards, session management, and password validation.
-- ❤️ **Personalized Bookmarks & Favorites**: Dynamic one-click restaurant saving and removal tied to authenticated user profiles.
-- 📱 **Responsive UI**: Custom styled templates engineered for intuitive browsing across desktop and mobile form factors.
+- **Dynamic Discovery & Search**: Filter Atlanta eateries by cuisine type, minimum customer ratings, location, and keywords.
+- **Automated Spatial Geocoding**: Integrated with the **Google Maps Geocoding & Places API** to automatically translate street addresses into latitude and longitude coordinates upon entry.
+- **Secure User Authentication**: Complete account management system with user registration, authentication guards, session management, and password validation.
+- **Personalized Bookmarks & Favorites**: Dynamic one-click restaurant saving and removal tied to authenticated user profiles.
+- **Responsive UI**: Custom styled templates engineered for intuitive browsing across desktop and mobile form factors.
 
 ---
 
-## 🏗️ Architecture & Database Schema
+## Architecture and Database Schema
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -53,7 +53,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Backend**: Python 3.10+, Django MVC framework
 - **Database**: SQLite (Development / Testing)
@@ -62,7 +62,7 @@
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 atlanta-food-finder/
@@ -83,7 +83,7 @@ atlanta-food-finder/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Prerequisites
 - Python 3.10+
@@ -128,7 +128,7 @@ Visit `http://127.0.0.1:8000` in your web browser.
 
 ---
 
-## 👥 Credits & Academic Context
+## Academic Context and Contributions
 
 - **Course**: CS 2340 (Objects and Design) at the **Georgia Institute of Technology**.
 - **Contributors**:
